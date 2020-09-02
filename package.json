@@ -27,6 +27,6 @@
     "webpack-cli": "^3.1.0"
   },
   "dependencies": {
-    "axois": "0.0.1-security"
+  
   }
 }
